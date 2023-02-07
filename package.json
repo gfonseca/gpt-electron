@@ -1,6 +1,6 @@
 {
   "name": "gpt-electron",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimal Electron chatGPT wraper",
   "main": "src/index.js",
   "scripts": {

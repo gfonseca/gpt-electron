@@ -14,7 +14,6 @@ module.exports = {
       name: '@electron-forge/maker-deb',
       config: {
         options: {
-          version: '1.0',
           name: 'gpt-electron',
           icon: 'assets/logo.png',
           categories: ['Development', 'Education', 'Utility'],
