@@ -12,7 +12,6 @@ $ npm run make
 After that .deb will be at ./out/
 
 ## Run
-
 ``` sh
 $ gpt-electron
 ```

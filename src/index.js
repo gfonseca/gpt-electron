@@ -15,5 +15,5 @@ if (argv.toggle) {
     process.exit(0)
   })
 } else {
-  startApp()
+  setTimeout(startApp, 2000);
 }
