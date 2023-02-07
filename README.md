@@ -1,6 +1,6 @@
 # gpt-electron
 A simple wrapper for chatGPT that works like quake terminal
-![](https://github.com/gfonseca/gpt-electron/blob/master/assets/gpt-electrron.gif)
+![](https://github.com/gfonseca/gpt-electron/blob/master/assets/gpt-electron.gif)
 ### build 
 ``` sh
 $ npm install
