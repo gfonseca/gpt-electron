@@ -54,6 +54,7 @@ exports.startApp =  function () {
     })
 
     ipcMain.handle('quitApp', quit)
+    ipcMain.handle('reloadApp', () => app.relaunch())
     process.on("SIGINT", quit)
     process.on("SIGTERM", quit)
   })
